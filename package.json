@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "swiper": "^7.0.8"
+  }
+}
